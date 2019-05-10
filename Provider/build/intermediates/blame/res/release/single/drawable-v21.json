@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/Provider/build/intermediates/res/merged/release/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/zhangkun/.android/build-cache/44c4e26e72068b4d782c6d74abbbf3b583688c90/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/Provider/build/intermediates/res/merged/release/drawable-v21/crop__selectable_background.xml",
+        "source": "/Users/zhangkun/.android/build-cache/ef3eca6586a2c54466c61ffea7ee9cdfd6112ef6/output/res/drawable-v21/crop__selectable_background.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/Provider/build/intermediates/res/merged/release/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/zhangkun/.android/build-cache/44c4e26e72068b4d782c6d74abbbf3b583688c90/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/Provider/build/intermediates/res/merged/release/drawable-v21/avd_hide_password.xml",
+        "source": "/Users/zhangkun/.android/build-cache/8192a340d4d1fd7b16df2c2d714e82a330066c40/output/res/drawable-v21/avd_hide_password.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/Provider/build/intermediates/res/merged/release/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/Users/zhangkun/.android/build-cache/8192a340d4d1fd7b16df2c2d714e82a330066c40/output/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/Provider/build/intermediates/res/merged/release/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/zhangkun/.android/build-cache/44c4e26e72068b4d782c6d74abbbf3b583688c90/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/Provider/build/intermediates/res/merged/release/drawable-v21/avd_show_password.xml",
+        "source": "/Users/zhangkun/.android/build-cache/8192a340d4d1fd7b16df2c2d714e82a330066c40/output/res/drawable-v21/avd_show_password.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/Provider/build/intermediates/res/merged/release/drawable-v21/design_password_eye.xml",
+        "source": "/Users/zhangkun/.android/build-cache/8192a340d4d1fd7b16df2c2d714e82a330066c40/output/res/drawable-v21/design_password_eye.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/Provider/build/intermediates/res/merged/release/drawable-v21/notification_action_background.xml",
+        "source": "/Users/zhangkun/.android/build-cache/44c4e26e72068b4d782c6d74abbbf3b583688c90/output/res/drawable-v21/notification_action_background.xml"
+    }
+]

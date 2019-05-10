@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/GoodsCenter/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/Users/zhangkun/.android/build-cache/44c4e26e72068b4d782c6d74abbbf3b583688c90/output/res/layout-v11/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/GoodsCenter/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/Users/zhangkun/.android/build-cache/44c4e26e72068b4d782c6d74abbbf3b583688c90/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/GoodsCenter/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/zhangkun/.android/build-cache/44c4e26e72068b4d782c6d74abbbf3b583688c90/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/GoodsCenter/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/Users/zhangkun/.android/build-cache/44c4e26e72068b4d782c6d74abbbf3b583688c90/output/res/layout-v11/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/GoodsCenter/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
+        "source": "/Users/zhangkun/.android/build-cache/44c4e26e72068b4d782c6d74abbbf3b583688c90/output/res/layout-v11/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/GoodsCenter/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/Users/zhangkun/.android/build-cache/44c4e26e72068b4d782c6d74abbbf3b583688c90/output/res/layout-v11/notification_template_big_media_custom.xml"
+    }
+]

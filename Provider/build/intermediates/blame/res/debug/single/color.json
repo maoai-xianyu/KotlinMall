@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/Provider/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/zhangkun/.android/build-cache/44c4e26e72068b4d782c6d74abbbf3b583688c90/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/Provider/build/intermediates/res/merged/debug/color/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/zhangkun/.android/build-cache/44c4e26e72068b4d782c6d74abbbf3b583688c90/output/res/color/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/Provider/build/intermediates/res/merged/debug/color/design_tint_password_toggle.xml",
+        "source": "/Users/zhangkun/.android/build-cache/8192a340d4d1fd7b16df2c2d714e82a330066c40/output/res/color/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/Provider/build/intermediates/res/merged/debug/color/design_error.xml",
+        "source": "/Users/zhangkun/.android/build-cache/8192a340d4d1fd7b16df2c2d714e82a330066c40/output/res/color/design_error.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/Provider/build/intermediates/res/merged/debug/color/abc_btn_colored_text_material.xml",
+        "source": "/Users/zhangkun/.android/build-cache/44c4e26e72068b4d782c6d74abbbf3b583688c90/output/res/color/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/Provider/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_light.xml",
+        "source": "/Users/zhangkun/.android/build-cache/44c4e26e72068b4d782c6d74abbbf3b583688c90/output/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/Provider/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/zhangkun/.android/build-cache/44c4e26e72068b4d782c6d74abbbf3b583688c90/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/Provider/build/intermediates/res/merged/debug/color/abc_tint_btn_checkable.xml",
+        "source": "/Users/zhangkun/.android/build-cache/44c4e26e72068b4d782c6d74abbbf3b583688c90/output/res/color/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/Provider/build/intermediates/res/merged/debug/color/abc_tint_spinner.xml",
+        "source": "/Users/zhangkun/.android/build-cache/44c4e26e72068b4d782c6d74abbbf3b583688c90/output/res/color/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/Provider/build/intermediates/res/merged/debug/color/abc_tint_switch_track.xml",
+        "source": "/Users/zhangkun/.android/build-cache/44c4e26e72068b4d782c6d74abbbf3b583688c90/output/res/color/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/Provider/build/intermediates/res/merged/debug/color/abc_tint_switch_thumb.xml",
+        "source": "/Users/zhangkun/.android/build-cache/44c4e26e72068b4d782c6d74abbbf3b583688c90/output/res/color/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/Provider/build/intermediates/res/merged/debug/color/abc_tint_edittext.xml",
+        "source": "/Users/zhangkun/.android/build-cache/44c4e26e72068b4d782c6d74abbbf3b583688c90/output/res/color/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/Provider/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
+        "source": "/Users/zhangkun/.android/build-cache/44c4e26e72068b4d782c6d74abbbf3b583688c90/output/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/Provider/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_dark.xml",
+        "source": "/Users/zhangkun/.android/build-cache/44c4e26e72068b4d782c6d74abbbf3b583688c90/output/res/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/Provider/build/intermediates/res/merged/debug/color/abc_tint_default.xml",
+        "source": "/Users/zhangkun/.android/build-cache/44c4e26e72068b4d782c6d74abbbf3b583688c90/output/res/color/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/Provider/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/zhangkun/.android/build-cache/44c4e26e72068b4d782c6d74abbbf3b583688c90/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/Provider/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/zhangkun/.android/build-cache/44c4e26e72068b4d782c6d74abbbf3b583688c90/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/Provider/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/zhangkun/.android/build-cache/44c4e26e72068b4d782c6d74abbbf3b583688c90/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/Provider/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/Users/zhangkun/.android/build-cache/44c4e26e72068b4d782c6d74abbbf3b583688c90/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/Provider/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/Users/zhangkun/.android/build-cache/44c4e26e72068b4d782c6d74abbbf3b583688c90/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/Provider/build/intermediates/res/merged/debug/color/abc_tint_seek_thumb.xml",
+        "source": "/Users/zhangkun/.android/build-cache/44c4e26e72068b4d782c6d74abbbf3b583688c90/output/res/color/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/Provider/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/Users/zhangkun/.android/build-cache/44c4e26e72068b4d782c6d74abbbf3b583688c90/output/res/color/switch_thumb_material_light.xml"
+    }
+]

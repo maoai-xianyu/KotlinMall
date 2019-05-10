@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/MessageCenter/build/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/zhangkun/.android/build-cache/44c4e26e72068b4d782c6d74abbbf3b583688c90/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/MessageCenter/build/intermediates/res/merged/release/layout-v21/notification_action.xml",
+        "source": "/Users/zhangkun/.android/build-cache/44c4e26e72068b4d782c6d74abbbf3b583688c90/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/MessageCenter/build/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/zhangkun/.android/build-cache/44c4e26e72068b4d782c6d74abbbf3b583688c90/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/MessageCenter/build/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/zhangkun/.android/build-cache/44c4e26e72068b4d782c6d74abbbf3b583688c90/output/res/layout-v21/notification_template_icon_group.xml"
+    }
+]

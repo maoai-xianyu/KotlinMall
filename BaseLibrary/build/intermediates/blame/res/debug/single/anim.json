@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/BaseLibrary/build/intermediates/res/merged/debug/anim/slide_out_bottom.xml",
+        "source": "/Users/zhangkun/.android/build-cache/adf08c64a41d25609deccb7a0513d09fe283387b/output/res/anim/slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/BaseLibrary/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/zhangkun/.android/build-cache/44c4e26e72068b4d782c6d74abbbf3b583688c90/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/BaseLibrary/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/zhangkun/.android/build-cache/44c4e26e72068b4d782c6d74abbbf3b583688c90/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/BaseLibrary/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/zhangkun/.android/build-cache/44c4e26e72068b4d782c6d74abbbf3b583688c90/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/BaseLibrary/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
+        "source": "/Users/zhangkun/.android/build-cache/8192a340d4d1fd7b16df2c2d714e82a330066c40/output/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/BaseLibrary/build/intermediates/res/merged/debug/anim/slide_in_bottom.xml",
+        "source": "/Users/zhangkun/.android/build-cache/adf08c64a41d25609deccb7a0513d09fe283387b/output/res/anim/slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/BaseLibrary/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/zhangkun/.android/build-cache/44c4e26e72068b4d782c6d74abbbf3b583688c90/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/BaseLibrary/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/zhangkun/.android/build-cache/44c4e26e72068b4d782c6d74abbbf3b583688c90/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/BaseLibrary/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/zhangkun/.android/build-cache/8192a340d4d1fd7b16df2c2d714e82a330066c40/output/res/anim/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/BaseLibrary/build/intermediates/res/merged/debug/anim/push_bottom_out.xml",
+        "source": "/Users/zhangkun/workspace/KotlinMall/BaseLibrary/src/main/res/anim/push_bottom_out.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/BaseLibrary/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/zhangkun/.android/build-cache/44c4e26e72068b4d782c6d74abbbf3b583688c90/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/BaseLibrary/build/intermediates/res/merged/debug/anim/fade_in_center.xml",
+        "source": "/Users/zhangkun/.android/build-cache/adf08c64a41d25609deccb7a0513d09fe283387b/output/res/anim/fade_in_center.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/BaseLibrary/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/zhangkun/.android/build-cache/44c4e26e72068b4d782c6d74abbbf3b583688c90/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/BaseLibrary/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/zhangkun/.android/build-cache/44c4e26e72068b4d782c6d74abbbf3b583688c90/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/BaseLibrary/build/intermediates/res/merged/debug/anim/push_bottom_in.xml",
+        "source": "/Users/zhangkun/workspace/KotlinMall/BaseLibrary/src/main/res/anim/push_bottom_in.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/BaseLibrary/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/zhangkun/.android/build-cache/44c4e26e72068b4d782c6d74abbbf3b583688c90/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/BaseLibrary/build/intermediates/res/merged/debug/anim/design_fab_in.xml",
+        "source": "/Users/zhangkun/.android/build-cache/8192a340d4d1fd7b16df2c2d714e82a330066c40/output/res/anim/design_fab_in.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/BaseLibrary/build/intermediates/res/merged/debug/anim/fade_out_center.xml",
+        "source": "/Users/zhangkun/.android/build-cache/adf08c64a41d25609deccb7a0513d09fe283387b/output/res/anim/fade_out_center.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/BaseLibrary/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/zhangkun/.android/build-cache/44c4e26e72068b4d782c6d74abbbf3b583688c90/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/BaseLibrary/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/zhangkun/.android/build-cache/8192a340d4d1fd7b16df2c2d714e82a330066c40/output/res/anim/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/BaseLibrary/build/intermediates/res/merged/debug/anim/design_fab_out.xml",
+        "source": "/Users/zhangkun/.android/build-cache/8192a340d4d1fd7b16df2c2d714e82a330066c40/output/res/anim/design_fab_out.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/BaseLibrary/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
+        "source": "/Users/zhangkun/.android/build-cache/8192a340d4d1fd7b16df2c2d714e82a330066c40/output/res/anim/design_snackbar_out.xml"
+    }
+]

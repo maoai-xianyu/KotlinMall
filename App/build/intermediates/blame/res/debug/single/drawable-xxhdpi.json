@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/App/build/intermediates/res/merged/debug/drawable-xxhdpi/icon_address.png",
+        "source": "/Users/zhangkun/workspace/KotlinMall/App/src/main/res/drawable-xxhdpi/icon_address.png"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/App/build/intermediates/res/merged/debug/drawable-xxhdpi/icon_share.png",
+        "source": "/Users/zhangkun/workspace/KotlinMall/App/src/main/res/drawable-xxhdpi/icon_share.png"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/App/build/intermediates/res/merged/debug/drawable-xxhdpi/icon_order_wait_confirm.png",
+        "source": "/Users/zhangkun/workspace/KotlinMall/App/src/main/res/drawable-xxhdpi/icon_order_wait_confirm.png"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/App/build/intermediates/res/merged/debug/drawable-xxhdpi/icon_order_completed.png",
+        "source": "/Users/zhangkun/workspace/KotlinMall/App/src/main/res/drawable-xxhdpi/icon_order_completed.png"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/App/build/intermediates/res/merged/debug/drawable-xxhdpi/bg_me_header.png",
+        "source": "/Users/zhangkun/workspace/KotlinMall/App/src/main/res/drawable-xxhdpi/bg_me_header.png"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/App/build/intermediates/res/merged/debug/drawable-xxhdpi/icon_order_wait_pay.png",
+        "source": "/Users/zhangkun/workspace/KotlinMall/App/src/main/res/drawable-xxhdpi/icon_order_wait_pay.png"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/App/build/intermediates/res/merged/debug/drawable-xxhdpi/icon_setting.png",
+        "source": "/Users/zhangkun/workspace/KotlinMall/App/src/main/res/drawable-xxhdpi/icon_setting.png"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/App/build/intermediates/res/merged/debug/drawable-xxhdpi/icon_scan.png",
+        "source": "/Users/zhangkun/workspace/KotlinMall/App/src/main/res/drawable-xxhdpi/icon_scan.png"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/App/build/intermediates/res/merged/debug/drawable-xxhdpi/icon_order.png",
+        "source": "/Users/zhangkun/workspace/KotlinMall/App/src/main/res/drawable-xxhdpi/icon_order.png"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/App/build/intermediates/res/merged/debug/drawable-xxhdpi/icon_special.png",
+        "source": "/Users/zhangkun/workspace/KotlinMall/App/src/main/res/drawable-xxhdpi/icon_special.png"
+    }
+]

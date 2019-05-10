@@ -1,0 +1,318 @@
+[
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/OrderCenter/build/intermediates/res/merged/debug/drawable/btn_common_disable.xml",
+        "source": "/Users/zhangkun/workspace/KotlinMall/BaseLibrary/build/intermediates/bundles/default/res/drawable/btn_common_disable.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/OrderCenter/build/intermediates/res/merged/debug/drawable/navigation_empty_icon.xml",
+        "source": "/Users/zhangkun/.android/build-cache/8192a340d4d1fd7b16df2c2d714e82a330066c40/output/res/drawable/navigation_empty_icon.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/OrderCenter/build/intermediates/res/merged/debug/drawable/btn_common_selector.xml",
+        "source": "/Users/zhangkun/workspace/KotlinMall/BaseLibrary/build/intermediates/bundles/default/res/drawable/btn_common_selector.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/OrderCenter/build/intermediates/res/merged/debug/drawable/border_corner_all.xml",
+        "source": "/Users/zhangkun/workspace/KotlinMall/BaseLibrary/build/intermediates/bundles/default/res/drawable/border_corner_all.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/OrderCenter/build/intermediates/res/merged/debug/drawable/bg_alertbutton_left.xml",
+        "source": "/Users/zhangkun/.android/build-cache/adf08c64a41d25609deccb7a0513d09fe283387b/output/res/drawable/bg_alertbutton_left.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/OrderCenter/build/intermediates/res/merged/debug/drawable/abc_ic_go_search_api_material.xml",
+        "source": "/Users/zhangkun/.android/build-cache/44c4e26e72068b4d782c6d74abbbf3b583688c90/output/res/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/OrderCenter/build/intermediates/res/merged/debug/drawable/home_header_corner_bg.xml",
+        "source": "/Users/zhangkun/workspace/KotlinMall/BaseLibrary/build/intermediates/bundles/default/res/drawable/home_header_corner_bg.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/OrderCenter/build/intermediates/res/merged/debug/drawable/black_background.xml",
+        "source": "/Users/zhangkun/.android/build-cache/1e438ac3e2d9985b7daeee0bcbe08821d0ba9e70/output/res/drawable/black_background.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/OrderCenter/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/Users/zhangkun/.android/build-cache/44c4e26e72068b4d782c6d74abbbf3b583688c90/output/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/OrderCenter/build/intermediates/res/merged/debug/drawable/border_bottom.xml",
+        "source": "/Users/zhangkun/workspace/KotlinMall/BaseLibrary/build/intermediates/bundles/default/res/drawable/border_bottom.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/OrderCenter/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/Users/zhangkun/.android/build-cache/44c4e26e72068b4d782c6d74abbbf3b583688c90/output/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/OrderCenter/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/zhangkun/.android/build-cache/44c4e26e72068b4d782c6d74abbbf3b583688c90/output/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/OrderCenter/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/Users/zhangkun/.android/build-cache/44c4e26e72068b4d782c6d74abbbf3b583688c90/output/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/OrderCenter/build/intermediates/res/merged/debug/drawable/bg_alertbutton_none.xml",
+        "source": "/Users/zhangkun/.android/build-cache/adf08c64a41d25609deccb7a0513d09fe283387b/output/res/drawable/bg_alertbutton_none.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/OrderCenter/build/intermediates/res/merged/debug/drawable/design_fab_background.xml",
+        "source": "/Users/zhangkun/.android/build-cache/8192a340d4d1fd7b16df2c2d714e82a330066c40/output/res/drawable/design_fab_background.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/OrderCenter/build/intermediates/res/merged/debug/drawable/corner_blue_white_bg.xml",
+        "source": "/Users/zhangkun/workspace/KotlinMall/BaseLibrary/build/intermediates/bundles/default/res/drawable/corner_blue_white_bg.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/OrderCenter/build/intermediates/res/merged/debug/drawable/collect_selector.xml",
+        "source": "/Users/zhangkun/workspace/KotlinMall/BaseLibrary/build/intermediates/bundles/default/res/drawable/collect_selector.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/OrderCenter/build/intermediates/res/merged/debug/drawable/btn_common_pressed.xml",
+        "source": "/Users/zhangkun/workspace/KotlinMall/BaseLibrary/build/intermediates/bundles/default/res/drawable/btn_common_pressed.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/OrderCenter/build/intermediates/res/merged/debug/drawable/image_placeholder.xml",
+        "source": "/Users/zhangkun/.android/build-cache/d951b4b6e8e0285e45869a2b592d313473bc474f/output/res/drawable/image_placeholder.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/OrderCenter/build/intermediates/res/merged/debug/drawable/gray_radius.xml",
+        "source": "/Users/zhangkun/.android/build-cache/1e438ac3e2d9985b7daeee0bcbe08821d0ba9e70/output/res/drawable/gray_radius.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/OrderCenter/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/Users/zhangkun/.android/build-cache/44c4e26e72068b4d782c6d74abbbf3b583688c90/output/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/OrderCenter/build/intermediates/res/merged/debug/drawable/bg_actionsheet_cancel.xml",
+        "source": "/Users/zhangkun/.android/build-cache/adf08c64a41d25609deccb7a0513d09fe283387b/output/res/drawable/bg_actionsheet_cancel.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/OrderCenter/build/intermediates/res/merged/debug/drawable/abc_seekbar_tick_mark_material.xml",
+        "source": "/Users/zhangkun/.android/build-cache/44c4e26e72068b4d782c6d74abbbf3b583688c90/output/res/drawable/abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/OrderCenter/build/intermediates/res/merged/debug/drawable/bga_refresh_loding.xml",
+        "source": "/Users/zhangkun/.android/build-cache/12632586018b30e71b0dffbd6af32d6f429b7c7f/output/res/drawable/bga_refresh_loding.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/OrderCenter/build/intermediates/res/merged/debug/drawable/bg_actionsheet_header.xml",
+        "source": "/Users/zhangkun/.android/build-cache/adf08c64a41d25609deccb7a0513d09fe283387b/output/res/drawable/bg_actionsheet_header.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/OrderCenter/build/intermediates/res/merged/debug/drawable/crop__texture.xml",
+        "source": "/Users/zhangkun/.android/build-cache/ef3eca6586a2c54466c61ffea7ee9cdfd6112ef6/output/res/drawable/crop__texture.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/OrderCenter/build/intermediates/res/merged/debug/drawable/border_bottom_gray.xml",
+        "source": "/Users/zhangkun/workspace/KotlinMall/BaseLibrary/build/intermediates/bundles/default/res/drawable/border_bottom_gray.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/OrderCenter/build/intermediates/res/merged/debug/drawable/abc_vector_test.xml",
+        "source": "/Users/zhangkun/.android/build-cache/44c4e26e72068b4d782c6d74abbbf3b583688c90/output/res/drawable/abc_vector_test.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/OrderCenter/build/intermediates/res/merged/debug/drawable/design_password_eye.xml",
+        "source": "/Users/zhangkun/.android/build-cache/8192a340d4d1fd7b16df2c2d714e82a330066c40/output/res/drawable/design_password_eye.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/OrderCenter/build/intermediates/res/merged/debug/drawable/progress_dialog_anim.xml",
+        "source": "/Users/zhangkun/workspace/KotlinMall/BaseLibrary/build/intermediates/bundles/default/res/drawable/progress_dialog_anim.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/OrderCenter/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/Users/zhangkun/.android/build-cache/44c4e26e72068b4d782c6d74abbbf3b583688c90/output/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/OrderCenter/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/Users/zhangkun/.android/build-cache/44c4e26e72068b4d782c6d74abbbf3b583688c90/output/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/OrderCenter/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/Users/zhangkun/.android/build-cache/44c4e26e72068b4d782c6d74abbbf3b583688c90/output/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/OrderCenter/build/intermediates/res/merged/debug/drawable/progress_dialog_bg.xml",
+        "source": "/Users/zhangkun/workspace/KotlinMall/BaseLibrary/build/intermediates/bundles/default/res/drawable/progress_dialog_bg.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/OrderCenter/build/intermediates/res/merged/debug/drawable/notification_bg.xml",
+        "source": "/Users/zhangkun/.android/build-cache/44c4e26e72068b4d782c6d74abbbf3b583688c90/output/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/OrderCenter/build/intermediates/res/merged/debug/drawable/bg_alertbutton_bottom.xml",
+        "source": "/Users/zhangkun/.android/build-cache/adf08c64a41d25609deccb7a0513d09fe283387b/output/res/drawable/bg_alertbutton_bottom.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/OrderCenter/build/intermediates/res/merged/debug/drawable/design_bottom_navigation_item_background.xml",
+        "source": "/Users/zhangkun/.android/build-cache/8192a340d4d1fd7b16df2c2d714e82a330066c40/output/res/drawable/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/OrderCenter/build/intermediates/res/merged/debug/drawable/design_snackbar_background.xml",
+        "source": "/Users/zhangkun/.android/build-cache/8192a340d4d1fd7b16df2c2d714e82a330066c40/output/res/drawable/design_snackbar_background.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/OrderCenter/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/zhangkun/.android/build-cache/44c4e26e72068b4d782c6d74abbbf3b583688c90/output/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/OrderCenter/build/intermediates/res/merged/debug/drawable/common_check_selector.xml",
+        "source": "/Users/zhangkun/workspace/KotlinMall/BaseLibrary/build/intermediates/bundles/default/res/drawable/common_check_selector.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/OrderCenter/build/intermediates/res/merged/debug/drawable/abc_ic_ab_back_material.xml",
+        "source": "/Users/zhangkun/.android/build-cache/44c4e26e72068b4d782c6d74abbbf3b583688c90/output/res/drawable/abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/OrderCenter/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/Users/zhangkun/.android/build-cache/44c4e26e72068b4d782c6d74abbbf3b583688c90/output/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/OrderCenter/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
+        "source": "/Users/zhangkun/.android/build-cache/44c4e26e72068b4d782c6d74abbbf3b583688c90/output/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/OrderCenter/build/intermediates/res/merged/debug/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "/Users/zhangkun/.android/build-cache/44c4e26e72068b4d782c6d74abbbf3b583688c90/output/res/drawable/abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/OrderCenter/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/Users/zhangkun/.android/build-cache/44c4e26e72068b4d782c6d74abbbf3b583688c90/output/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/OrderCenter/build/intermediates/res/merged/debug/drawable/border_top.xml",
+        "source": "/Users/zhangkun/workspace/KotlinMall/BaseLibrary/build/intermediates/bundles/default/res/drawable/border_top.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/OrderCenter/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/Users/zhangkun/.android/build-cache/44c4e26e72068b4d782c6d74abbbf3b583688c90/output/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/OrderCenter/build/intermediates/res/merged/debug/drawable/abc_ratingbar_material.xml",
+        "source": "/Users/zhangkun/.android/build-cache/44c4e26e72068b4d782c6d74abbbf3b583688c90/output/res/drawable/abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/OrderCenter/build/intermediates/res/merged/debug/drawable/bg_alertbutton_right.xml",
+        "source": "/Users/zhangkun/.android/build-cache/adf08c64a41d25609deccb7a0513d09fe283387b/output/res/drawable/bg_alertbutton_right.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/OrderCenter/build/intermediates/res/merged/debug/drawable/state_loading.xml",
+        "source": "/Users/zhangkun/workspace/KotlinMall/BaseLibrary/build/intermediates/bundles/default/res/drawable/state_loading.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/OrderCenter/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/Users/zhangkun/.android/build-cache/44c4e26e72068b4d782c6d74abbbf3b583688c90/output/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/OrderCenter/build/intermediates/res/merged/debug/drawable/no_banner.png",
+        "source": "/Users/zhangkun/.android/build-cache/1e438ac3e2d9985b7daeee0bcbe08821d0ba9e70/output/res/drawable/no_banner.png"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/OrderCenter/build/intermediates/res/merged/debug/drawable/btn_common_nor.xml",
+        "source": "/Users/zhangkun/workspace/KotlinMall/BaseLibrary/build/intermediates/bundles/default/res/drawable/btn_common_nor.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/OrderCenter/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/Users/zhangkun/.android/build-cache/44c4e26e72068b4d782c6d74abbbf3b583688c90/output/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/OrderCenter/build/intermediates/res/merged/debug/drawable/bg_alertview_alert.xml",
+        "source": "/Users/zhangkun/.android/build-cache/adf08c64a41d25609deccb7a0513d09fe283387b/output/res/drawable/bg_alertview_alert.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/OrderCenter/build/intermediates/res/merged/debug/drawable/border_corner_all_blue.xml",
+        "source": "/Users/zhangkun/workspace/KotlinMall/BaseLibrary/build/intermediates/bundles/default/res/drawable/border_corner_all_blue.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/OrderCenter/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/Users/zhangkun/.android/build-cache/44c4e26e72068b4d782c6d74abbbf3b583688c90/output/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/OrderCenter/build/intermediates/res/merged/debug/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "/Users/zhangkun/.android/build-cache/44c4e26e72068b4d782c6d74abbbf3b583688c90/output/res/drawable/abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/OrderCenter/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/Users/zhangkun/.android/build-cache/44c4e26e72068b4d782c6d74abbbf3b583688c90/output/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/OrderCenter/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/Users/zhangkun/.android/build-cache/44c4e26e72068b4d782c6d74abbbf3b583688c90/output/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/OrderCenter/build/intermediates/res/merged/debug/drawable/abc_ic_clear_material.xml",
+        "source": "/Users/zhangkun/.android/build-cache/44c4e26e72068b4d782c6d74abbbf3b583688c90/output/res/drawable/abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/OrderCenter/build/intermediates/res/merged/debug/drawable/tab_selector.xml",
+        "source": "/Users/zhangkun/workspace/KotlinMall/BaseLibrary/build/intermediates/bundles/default/res/drawable/tab_selector.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/OrderCenter/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/Users/zhangkun/.android/build-cache/44c4e26e72068b4d782c6d74abbbf3b583688c90/output/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/OrderCenter/build/intermediates/res/merged/debug/drawable/white_radius.xml",
+        "source": "/Users/zhangkun/.android/build-cache/1e438ac3e2d9985b7daeee0bcbe08821d0ba9e70/output/res/drawable/white_radius.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/OrderCenter/build/intermediates/res/merged/debug/drawable/border_all.xml",
+        "source": "/Users/zhangkun/workspace/KotlinMall/BaseLibrary/build/intermediates/bundles/default/res/drawable/border_all.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/OrderCenter/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/Users/zhangkun/.android/build-cache/44c4e26e72068b4d782c6d74abbbf3b583688c90/output/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/OrderCenter/build/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
+        "source": "/Users/zhangkun/.android/build-cache/44c4e26e72068b4d782c6d74abbbf3b583688c90/output/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/OrderCenter/build/intermediates/res/merged/debug/drawable/corner_gray_white_bg.xml",
+        "source": "/Users/zhangkun/workspace/KotlinMall/BaseLibrary/build/intermediates/bundles/default/res/drawable/corner_gray_white_bg.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/OrderCenter/build/intermediates/res/merged/debug/drawable/bottom_nav_cart_selector.xml",
+        "source": "/Users/zhangkun/workspace/KotlinMall/BaseLibrary/build/intermediates/bundles/default/res/drawable/bottom_nav_cart_selector.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/OrderCenter/build/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
+        "source": "/Users/zhangkun/.android/build-cache/44c4e26e72068b4d782c6d74abbbf3b583688c90/output/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/OrderCenter/build/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
+        "source": "/Users/zhangkun/.android/build-cache/44c4e26e72068b4d782c6d74abbbf3b583688c90/output/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/OrderCenter/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background.xml",
+        "source": "/Users/zhangkun/.android/build-cache/44c4e26e72068b4d782c6d74abbbf3b583688c90/output/res/drawable/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/OrderCenter/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/Users/zhangkun/.android/build-cache/44c4e26e72068b4d782c6d74abbbf3b583688c90/output/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/OrderCenter/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/Users/zhangkun/.android/build-cache/44c4e26e72068b4d782c6d74abbbf3b583688c90/output/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/OrderCenter/build/intermediates/res/merged/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/Users/zhangkun/.android/build-cache/44c4e26e72068b4d782c6d74abbbf3b583688c90/output/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/OrderCenter/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/Users/zhangkun/.android/build-cache/44c4e26e72068b4d782c6d74abbbf3b583688c90/output/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/OrderCenter/build/intermediates/res/merged/debug/drawable/crop__selectable_background.xml",
+        "source": "/Users/zhangkun/.android/build-cache/ef3eca6586a2c54466c61ffea7ee9cdfd6112ef6/output/res/drawable/crop__selectable_background.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/OrderCenter/build/intermediates/res/merged/debug/drawable/bottom_nav_text_selector.xml",
+        "source": "/Users/zhangkun/workspace/KotlinMall/BaseLibrary/build/intermediates/bundles/default/res/drawable/bottom_nav_text_selector.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/OrderCenter/build/intermediates/res/merged/debug/drawable/abc_ic_search_api_material.xml",
+        "source": "/Users/zhangkun/.android/build-cache/44c4e26e72068b4d782c6d74abbbf3b583688c90/output/res/drawable/abc_ic_search_api_material.xml"
+    }
+]

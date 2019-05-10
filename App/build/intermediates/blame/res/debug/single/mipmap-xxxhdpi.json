@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/App/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher_round.png",
+        "source": "/Users/zhangkun/workspace/KotlinMall/App/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/KotlinMall/App/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher.png",
+        "source": "/Users/zhangkun/workspace/KotlinMall/App/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    }
+]

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/zhangkun/workspace/KotlinMall/PaySDK/libs"><file name="alipaySdk-20170725.jar" path="/Users/zhangkun/workspace/KotlinMall/PaySDK/libs/alipaySdk-20170725.jar"/></source></dataSet><dataSet config="release"><source path="/Users/zhangkun/workspace/KotlinMall/PaySDK/src/release/jniLibs"/></dataSet></merger>

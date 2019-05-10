@@ -1,0 +1,559 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/zhangkun/workspace/KotlinMall/App/src/main/AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from /Users/zhangkun/workspace/KotlinMall/App/src/main/AndroidManifest.xml:3:11-36
+		INJECTED from /Users/zhangkun/workspace/KotlinMall/App/src/main/AndroidManifest.xml
+		INJECTED from /Users/zhangkun/workspace/KotlinMall/App/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/zhangkun/workspace/KotlinMall/App/src/main/AndroidManifest.xml
+		INJECTED from /Users/zhangkun/workspace/KotlinMall/App/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/zhangkun/workspace/KotlinMall/App/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/zhangkun/workspace/KotlinMall/App/src/main/AndroidManifest.xml
+		INJECTED from /Users/zhangkun/workspace/KotlinMall/App/src/main/AndroidManifest.xml
+application
+ADDED from /Users/zhangkun/workspace/KotlinMall/App/src/main/AndroidManifest.xml:5:5-24:19
+MERGED from [KotlinMall:UserCenter:unspecified] /Users/zhangkun/workspace/KotlinMall/UserCenter/build/intermediates/bundles/default/AndroidManifest.xml:14:5-23:19
+MERGED from [KotlinMall:MessageCenter:unspecified] /Users/zhangkun/workspace/KotlinMall/MessageCenter/build/intermediates/bundles/default/AndroidManifest.xml:12:5-39:19
+MERGED from [cn.jiguang.sdk:jpush:3.0.9] /Users/zhangkun/.android/build-cache/3d02cb189638dc1cd79ab4c62cf4aa8c65934035/output/AndroidManifest.xml:37:5-126:19
+MERGED from [cn.jiguang.sdk:jcore:1.1.7] /Users/zhangkun/.android/build-cache/55798675d7d9ad6a3e11e3e8d02b9adebb764e8b/output/AndroidManifest.xml:11:5-12:19
+MERGED from [KotlinMall:GoodsCenter:unspecified] /Users/zhangkun/workspace/KotlinMall/GoodsCenter/build/intermediates/bundles/default/AndroidManifest.xml:11:5-21:19
+MERGED from [ren.qinc.numberbutton:numberbutton:0.0.1] /Users/zhangkun/.android/build-cache/55fab0e795c9c228aac9df703cd5688163d2e258/output/AndroidManifest.xml:11:5-15:19
+MERGED from [KotlinMall:OrderCenter:unspecified] /Users/zhangkun/workspace/KotlinMall/OrderCenter/build/intermediates/bundles/default/AndroidManifest.xml:11:5-20:19
+MERGED from [KotlinMall:PaySDK:unspecified] /Users/zhangkun/workspace/KotlinMall/PaySDK/build/intermediates/bundles/default/AndroidManifest.xml:17:5-36:19
+MERGED from [KotlinMall:Provider:unspecified] /Users/zhangkun/workspace/KotlinMall/Provider/build/intermediates/bundles/default/AndroidManifest.xml:11:5-15:19
+MERGED from [KotlinMall:BaseLibrary:unspecified] /Users/zhangkun/workspace/KotlinMall/BaseLibrary/build/intermediates/bundles/default/AndroidManifest.xml:13:5-17:19
+MERGED from [com.android.support:cardview-v7:25.3.1] /Users/zhangkun/.android/build-cache/0b969aeac0c9d624d16d503057c3f4f2ba7cc050/output/AndroidManifest.xml:26:5-20
+MERGED from [de.hdodenhof:circleimageview:2.1.0] /Users/zhangkun/.android/build-cache/dc696fd06e89cf7f170735a5da08ac281c94d8be/output/AndroidManifest.xml:9:5-20
+MERGED from [com.jph.takephoto:takephoto_library:4.0.3] /Users/zhangkun/.android/build-cache/a420996ea533ba70e179f2111f13cca4473dfbfe/output/AndroidManifest.xml:14:5-26:19
+MERGED from [com.darsh.multipleimageselect:multipleimageselect:1.0.4] /Users/zhangkun/.android/build-cache/d951b4b6e8e0285e45869a2b592d313473bc474f/output/AndroidManifest.xml:13:5-34:19
+MERGED from [com.ashokvarma.android:bottom-navigation-bar:2.0.2] /Users/zhangkun/.android/build-cache/9bb928fab3d1dd98136b68750e9b8fec8deb736c/output/AndroidManifest.xml:11:5-47
+MERGED from [com.android.support:design:25.3.1] /Users/zhangkun/.android/build-cache/8192a340d4d1fd7b16df2c2d714e82a330066c40/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:transition:25.3.1] /Users/zhangkun/.android/build-cache/0c05ddcfda7aa826466078138adfa0741a636c0e/output/AndroidManifest.xml:26:5-20
+MERGED from [com.github.shts:TriangleLabelView:1.1.2] /Users/zhangkun/.android/build-cache/eacbdba30684f75585bfe7e23cdd2929c215b088/output/AndroidManifest.xml:11:5-14:19
+MERGED from [com.github.crosswall:Android-Coverflow:release-v1.0.4] /Users/zhangkun/.android/build-cache/c63cf3d40f4546e519059caf2bb36f59638c3e2c/output/AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.Kennyc1012:MultiStateView:1.3.2] /Users/zhangkun/.android/build-cache/a887d5ddf921f31502959b6059595aac410f85f2/output/AndroidManifest.xml:12:5-20
+MERGED from [com.eightbitlab:rxbus:1.0.2] /Users/zhangkun/.android/build-cache/037bd7a508c94d59773156e47a0b5eba5fd690bd/output/AndroidManifest.xml:11:5-14:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/zhangkun/.android/build-cache/44c4e26e72068b4d782c6d74abbbf3b583688c90/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/zhangkun/.android/build-cache/900f4b27e50bbe6173cf2570fe920188d465b245/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/zhangkun/.android/build-cache/810056b25a5cbf8eb7e8a2802347282cb866a29e/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /Users/zhangkun/.android/build-cache/9347b03b6768bbba347ba8c7e982bd7eb70c7537/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/zhangkun/.android/build-cache/f11d40e6c1ed312d76b275ba289199b41605416f/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/zhangkun/.android/build-cache/59860ad365814ded4365b6084c2480a8eb60a442/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/zhangkun/.android/build-cache/66c14e0e9268e7150dc3270be91cf2cdb56b2bc9/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/zhangkun/.android/build-cache/c47ebaf81bfeaa4fb47800f917d169532c3ae061/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/zhangkun/.android/build-cache/39f56069ef3a7140d7cc5af74108d7b7aa447b55/output/AndroidManifest.xml:29:5-20
+MERGED from [q.rorbin:badgeview:1.1.2] /Users/zhangkun/.android/build-cache/c67305b9f99b7f4b6fdad5e265cda7af98a3ee78/output/AndroidManifest.xml:11:5-20
+	android:label
+		ADDED from /Users/zhangkun/workspace/KotlinMall/App/src/main/AndroidManifest.xml:8:13-45
+	android:supportsRtl
+		ADDED from /Users/zhangkun/workspace/KotlinMall/App/src/main/AndroidManifest.xml:10:13-39
+	android:roundIcon
+		ADDED from /Users/zhangkun/workspace/KotlinMall/App/src/main/AndroidManifest.xml:9:13-58
+	android:allowBackup
+		ADDED from /Users/zhangkun/workspace/KotlinMall/App/src/main/AndroidManifest.xml:6:13-39
+	android:icon
+		ADDED from /Users/zhangkun/workspace/KotlinMall/App/src/main/AndroidManifest.xml:7:13-47
+	android:theme
+		ADDED from /Users/zhangkun/workspace/KotlinMall/App/src/main/AndroidManifest.xml:11:13-44
+	android:name
+		ADDED from /Users/zhangkun/workspace/KotlinMall/App/src/main/AndroidManifest.xml:12:13-51
+activity#com.kotlin.mall.ui.activity.MainActivity
+ADDED from /Users/zhangkun/workspace/KotlinMall/App/src/main/AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from /Users/zhangkun/workspace/KotlinMall/App/src/main/AndroidManifest.xml:14:19-59
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/zhangkun/workspace/KotlinMall/App/src/main/AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from /Users/zhangkun/workspace/KotlinMall/App/src/main/AndroidManifest.xml:16:17-68
+	android:name
+		ADDED from /Users/zhangkun/workspace/KotlinMall/App/src/main/AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/zhangkun/workspace/KotlinMall/App/src/main/AndroidManifest.xml:18:17-76
+	android:name
+		ADDED from /Users/zhangkun/workspace/KotlinMall/App/src/main/AndroidManifest.xml:18:27-74
+activity#com.kotlin.mall.ui.activity.SettingActivity
+ADDED from /Users/zhangkun/workspace/KotlinMall/App/src/main/AndroidManifest.xml:22:9-64
+	android:name
+		ADDED from /Users/zhangkun/workspace/KotlinMall/App/src/main/AndroidManifest.xml:22:19-62
+uses-sdk
+INJECTED from /Users/zhangkun/workspace/KotlinMall/App/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [KotlinMall:UserCenter:unspecified] /Users/zhangkun/workspace/KotlinMall/UserCenter/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+MERGED from [KotlinMall:MessageCenter:unspecified] /Users/zhangkun/workspace/KotlinMall/MessageCenter/build/intermediates/bundles/default/AndroidManifest.xml:8:5-10:41
+MERGED from [cn.jiguang.sdk:jpush:3.0.9] /Users/zhangkun/.android/build-cache/3d02cb189638dc1cd79ab4c62cf4aa8c65934035/output/AndroidManifest.xml:7:5-9:41
+MERGED from [cn.jiguang.sdk:jcore:1.1.7] /Users/zhangkun/.android/build-cache/55798675d7d9ad6a3e11e3e8d02b9adebb764e8b/output/AndroidManifest.xml:7:5-9:41
+MERGED from [KotlinMall:GoodsCenter:unspecified] /Users/zhangkun/workspace/KotlinMall/GoodsCenter/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+MERGED from [ren.qinc.numberbutton:numberbutton:0.0.1] /Users/zhangkun/.android/build-cache/55fab0e795c9c228aac9df703cd5688163d2e258/output/AndroidManifest.xml:7:5-9:41
+MERGED from [KotlinMall:OrderCenter:unspecified] /Users/zhangkun/workspace/KotlinMall/OrderCenter/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+MERGED from [KotlinMall:PaySDK:unspecified] /Users/zhangkun/workspace/KotlinMall/PaySDK/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+MERGED from [KotlinMall:Provider:unspecified] /Users/zhangkun/workspace/KotlinMall/Provider/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+MERGED from [KotlinMall:BaseLibrary:unspecified] /Users/zhangkun/workspace/KotlinMall/BaseLibrary/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:cardview-v7:25.3.1] /Users/zhangkun/.android/build-cache/0b969aeac0c9d624d16d503057c3f4f2ba7cc050/output/AndroidManifest.xml:20:5-43
+MERGED from [com.trello:rxlifecycle-kotlin:1.0] /Users/zhangkun/.android/build-cache/ca2c9fc2ef778aef1849f87e30bd4c47e425399f/output/AndroidManifest.xml:17:5-44
+MERGED from [com.trello:rxlifecycle-components:1.0] /Users/zhangkun/.android/build-cache/1df57b3bd8f20d15f8bb51fc34b872fa634dad3b/output/AndroidManifest.xml:17:5-44
+MERGED from [com.trello:rxlifecycle-android:1.0] /Users/zhangkun/.android/build-cache/8dcb49d81188feda766e5d74aabb129b849cbcb7/output/AndroidManifest.xml:17:5-44
+MERGED from [com.jakewharton.rxbinding:rxbinding:0.4.0] /Users/zhangkun/.android/build-cache/68e1d9cc6ec7b6ab6c6280d30be16aba43f23055/output/AndroidManifest.xml:6:5-44
+MERGED from [de.hdodenhof:circleimageview:2.1.0] /Users/zhangkun/.android/build-cache/dc696fd06e89cf7f170735a5da08ac281c94d8be/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.jph.takephoto:takephoto_library:4.0.3] /Users/zhangkun/.android/build-cache/a420996ea533ba70e179f2111f13cca4473dfbfe/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.soundcloud.android.crop:lib_crop:1.0.0] /Users/zhangkun/.android/build-cache/ef3eca6586a2c54466c61ffea7ee9cdfd6112ef6/output/AndroidManifest.xml:8:5-10:41
+MERGED from [com.darsh.multipleimageselect:multipleimageselect:1.0.4] /Users/zhangkun/.android/build-cache/d951b4b6e8e0285e45869a2b592d313473bc474f/output/AndroidManifest.xml:7:5-9:41
+MERGED from [me.shaohui.advancedluban:library:1.3.2] /Users/zhangkun/.android/build-cache/65a8c3cd523dec62f70e4e76da1df673ade00170/output/AndroidManifest.xml:7:5-9:41
+MERGED from [io.reactivex:rxandroid:1.2.1] /Users/zhangkun/.android/build-cache/291490ff180d2626ad99d00ee40bd7d2b05990a0/output/AndroidManifest.xml:19:5-43
+MERGED from [com.bigkoo:alertview:1.0.3] /Users/zhangkun/.android/build-cache/adf08c64a41d25609deccb7a0513d09fe283387b/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.ashokvarma.android:bottom-navigation-bar:2.0.2] /Users/zhangkun/.android/build-cache/9bb928fab3d1dd98136b68750e9b8fec8deb736c/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:25.3.1] /Users/zhangkun/.android/build-cache/8192a340d4d1fd7b16df2c2d714e82a330066c40/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/zhangkun/.android/build-cache/6ff689b0e9a2941b0a1afc491f5f8a4309c2b008/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] /Users/zhangkun/.android/build-cache/0c05ddcfda7aa826466078138adfa0741a636c0e/output/AndroidManifest.xml:20:5-44
+MERGED from [com.youth.banner:banner:1.4.10] /Users/zhangkun/.android/build-cache/1e438ac3e2d9985b7daeee0bcbe08821d0ba9e70/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.shts:TriangleLabelView:1.1.2] /Users/zhangkun/.android/build-cache/eacbdba30684f75585bfe7e23cdd2929c215b088/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.crosswall:Android-Coverflow:release-v1.0.4] /Users/zhangkun/.android/build-cache/c63cf3d40f4546e519059caf2bb36f59638c3e2c/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.Kennyc1012:MultiStateView:1.3.2] /Users/zhangkun/.android/build-cache/a887d5ddf921f31502959b6059595aac410f85f2/output/AndroidManifest.xml:8:5-10:41
+MERGED from [cn.bingoogolapple:bga-refreshlayout:1.1.7] /Users/zhangkun/.android/build-cache/12632586018b30e71b0dffbd6af32d6f429b7c7f/output/AndroidManifest.xml:6:5-8:41
+MERGED from [com.eightbitlab:rxbus:1.0.2] /Users/zhangkun/.android/build-cache/037bd7a508c94d59773156e47a0b5eba5fd690bd/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.zhy:flowlayout-lib:1.0.3] /Users/zhangkun/.android/build-cache/c2cb7e8fc955c926233e588ed25f5d11da0ca053/output/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/zhangkun/.android/build-cache/44c4e26e72068b4d782c6d74abbbf3b583688c90/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/zhangkun/.android/build-cache/900f4b27e50bbe6173cf2570fe920188d465b245/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/zhangkun/.android/build-cache/810056b25a5cbf8eb7e8a2802347282cb866a29e/output/AndroidManifest.xml:20:5-43
+MERGED from [com.alibaba:arouter-api:1.2.2] /Users/zhangkun/.android/build-cache/17b6dc8c9a2960e46e4ac58628641558e5306625/output/AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:support-v4:25.3.1] /Users/zhangkun/.android/build-cache/9347b03b6768bbba347ba8c7e982bd7eb70c7537/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/zhangkun/.android/build-cache/f11d40e6c1ed312d76b275ba289199b41605416f/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/zhangkun/.android/build-cache/59860ad365814ded4365b6084c2480a8eb60a442/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/zhangkun/.android/build-cache/66c14e0e9268e7150dc3270be91cf2cdb56b2bc9/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/zhangkun/.android/build-cache/c47ebaf81bfeaa4fb47800f917d169532c3ae061/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] /Users/zhangkun/.android/build-cache/39f56069ef3a7140d7cc5af74108d7b7aa447b55/output/AndroidManifest.xml:21:5-23:58
+MERGED from [q.rorbin:badgeview:1.1.2] /Users/zhangkun/.android/build-cache/c67305b9f99b7f4b6fdad5e265cda7af98a3ee78/output/AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] /Users/zhangkun/.android/build-cache/8192a340d4d1fd7b16df2c2d714e82a330066c40/output/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /Users/zhangkun/workspace/KotlinMall/App/src/main/AndroidManifest.xml
+		INJECTED from /Users/zhangkun/workspace/KotlinMall/App/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/zhangkun/workspace/KotlinMall/App/src/main/AndroidManifest.xml
+		INJECTED from /Users/zhangkun/workspace/KotlinMall/App/src/main/AndroidManifest.xml
+uses-permission#android.permission.KILL_BACKGROUND_PROCESSES
+ADDED from [KotlinMall:UserCenter:unspecified] /Users/zhangkun/workspace/KotlinMall/UserCenter/build/intermediates/bundles/default/AndroidManifest.xml:11:5-84
+	android:name
+		ADDED from [KotlinMall:UserCenter:unspecified] /Users/zhangkun/workspace/KotlinMall/UserCenter/build/intermediates/bundles/default/AndroidManifest.xml:11:22-81
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [KotlinMall:UserCenter:unspecified] /Users/zhangkun/workspace/KotlinMall/UserCenter/build/intermediates/bundles/default/AndroidManifest.xml:12:5-79
+MERGED from [cn.jiguang.sdk:jpush:3.0.9] /Users/zhangkun/.android/build-cache/3d02cb189638dc1cd79ab4c62cf4aa8c65934035/output/AndroidManifest.xml:26:5-79
+MERGED from [KotlinMall:PaySDK:unspecified] /Users/zhangkun/workspace/KotlinMall/PaySDK/build/intermediates/bundles/default/AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from [KotlinMall:UserCenter:unspecified] /Users/zhangkun/workspace/KotlinMall/UserCenter/build/intermediates/bundles/default/AndroidManifest.xml:12:22-76
+activity#com.kotlin.user.ui.activity.RegisterActivity
+ADDED from [KotlinMall:UserCenter:unspecified] /Users/zhangkun/workspace/KotlinMall/UserCenter/build/intermediates/bundles/default/AndroidManifest.xml:18:9-81
+	android:name
+		ADDED from [KotlinMall:UserCenter:unspecified] /Users/zhangkun/workspace/KotlinMall/UserCenter/build/intermediates/bundles/default/AndroidManifest.xml:18:19-78
+activity#com.kotlin.user.ui.activity.LoginActivity
+ADDED from [KotlinMall:UserCenter:unspecified] /Users/zhangkun/workspace/KotlinMall/UserCenter/build/intermediates/bundles/default/AndroidManifest.xml:19:9-78
+	android:name
+		ADDED from [KotlinMall:UserCenter:unspecified] /Users/zhangkun/workspace/KotlinMall/UserCenter/build/intermediates/bundles/default/AndroidManifest.xml:19:19-75
+activity#com.kotlin.user.ui.activity.ForgetPwdActivity
+ADDED from [KotlinMall:UserCenter:unspecified] /Users/zhangkun/workspace/KotlinMall/UserCenter/build/intermediates/bundles/default/AndroidManifest.xml:20:9-82
+	android:name
+		ADDED from [KotlinMall:UserCenter:unspecified] /Users/zhangkun/workspace/KotlinMall/UserCenter/build/intermediates/bundles/default/AndroidManifest.xml:20:19-79
+activity#com.kotlin.user.ui.activity.ResetPwdActivity
+ADDED from [KotlinMall:UserCenter:unspecified] /Users/zhangkun/workspace/KotlinMall/UserCenter/build/intermediates/bundles/default/AndroidManifest.xml:21:9-81
+	android:name
+		ADDED from [KotlinMall:UserCenter:unspecified] /Users/zhangkun/workspace/KotlinMall/UserCenter/build/intermediates/bundles/default/AndroidManifest.xml:21:19-78
+activity#com.kotlin.user.ui.activity.UserInfoActivity
+ADDED from [KotlinMall:UserCenter:unspecified] /Users/zhangkun/workspace/KotlinMall/UserCenter/build/intermediates/bundles/default/AndroidManifest.xml:22:9-81
+	android:name
+		ADDED from [KotlinMall:UserCenter:unspecified] /Users/zhangkun/workspace/KotlinMall/UserCenter/build/intermediates/bundles/default/AndroidManifest.xml:22:19-78
+receiver#com.kotlin.message.receiver.MessageReceiver
+ADDED from [KotlinMall:MessageCenter:unspecified] /Users/zhangkun/workspace/KotlinMall/MessageCenter/build/intermediates/bundles/default/AndroidManifest.xml:16:9-29:20
+	android:enabled
+		ADDED from [KotlinMall:MessageCenter:unspecified] /Users/zhangkun/workspace/KotlinMall/MessageCenter/build/intermediates/bundles/default/AndroidManifest.xml:18:13-35
+	android:name
+		ADDED from [KotlinMall:MessageCenter:unspecified] /Users/zhangkun/workspace/KotlinMall/MessageCenter/build/intermediates/bundles/default/AndroidManifest.xml:17:13-71
+intent-filter#cn.jpush.android.intent.CONNECTION+cn.jpush.android.intent.MESSAGE_RECEIVED+cn.jpush.android.intent.NOTIFICATION_CLICK_ACTION+cn.jpush.android.intent.NOTIFICATION_OPENED+cn.jpush.android.intent.NOTIFICATION_RECEIVED+cn.jpush.android.intent.REGISTRATION+com.kotlin.mall
+ADDED from [KotlinMall:MessageCenter:unspecified] /Users/zhangkun/workspace/KotlinMall/MessageCenter/build/intermediates/bundles/default/AndroidManifest.xml:19:13-28:29
+action#cn.jpush.android.intent.REGISTRATION
+ADDED from [KotlinMall:MessageCenter:unspecified] /Users/zhangkun/workspace/KotlinMall/MessageCenter/build/intermediates/bundles/default/AndroidManifest.xml:20:17-79
+	android:name
+		ADDED from [KotlinMall:MessageCenter:unspecified] /Users/zhangkun/workspace/KotlinMall/MessageCenter/build/intermediates/bundles/default/AndroidManifest.xml:20:25-76
+action#cn.jpush.android.intent.MESSAGE_RECEIVED
+ADDED from [KotlinMall:MessageCenter:unspecified] /Users/zhangkun/workspace/KotlinMall/MessageCenter/build/intermediates/bundles/default/AndroidManifest.xml:21:17-83
+	android:name
+		ADDED from [KotlinMall:MessageCenter:unspecified] /Users/zhangkun/workspace/KotlinMall/MessageCenter/build/intermediates/bundles/default/AndroidManifest.xml:21:25-80
+action#cn.jpush.android.intent.NOTIFICATION_RECEIVED
+ADDED from [KotlinMall:MessageCenter:unspecified] /Users/zhangkun/workspace/KotlinMall/MessageCenter/build/intermediates/bundles/default/AndroidManifest.xml:22:17-88
+	android:name
+		ADDED from [KotlinMall:MessageCenter:unspecified] /Users/zhangkun/workspace/KotlinMall/MessageCenter/build/intermediates/bundles/default/AndroidManifest.xml:22:25-85
+action#cn.jpush.android.intent.NOTIFICATION_OPENED
+ADDED from [KotlinMall:MessageCenter:unspecified] /Users/zhangkun/workspace/KotlinMall/MessageCenter/build/intermediates/bundles/default/AndroidManifest.xml:23:17-86
+	android:name
+		ADDED from [KotlinMall:MessageCenter:unspecified] /Users/zhangkun/workspace/KotlinMall/MessageCenter/build/intermediates/bundles/default/AndroidManifest.xml:23:25-83
+action#cn.jpush.android.intent.NOTIFICATION_CLICK_ACTION
+ADDED from [KotlinMall:MessageCenter:unspecified] /Users/zhangkun/workspace/KotlinMall/MessageCenter/build/intermediates/bundles/default/AndroidManifest.xml:24:17-92
+	android:name
+		ADDED from [KotlinMall:MessageCenter:unspecified] /Users/zhangkun/workspace/KotlinMall/MessageCenter/build/intermediates/bundles/default/AndroidManifest.xml:24:25-89
+action#cn.jpush.android.intent.CONNECTION
+ADDED from [KotlinMall:MessageCenter:unspecified] /Users/zhangkun/workspace/KotlinMall/MessageCenter/build/intermediates/bundles/default/AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from [KotlinMall:MessageCenter:unspecified] /Users/zhangkun/workspace/KotlinMall/MessageCenter/build/intermediates/bundles/default/AndroidManifest.xml:25:25-74
+category#com.kotlin.mall
+ADDED from [KotlinMall:MessageCenter:unspecified] /Users/zhangkun/workspace/KotlinMall/MessageCenter/build/intermediates/bundles/default/AndroidManifest.xml:27:17-60
+	android:name
+		ADDED from [KotlinMall:MessageCenter:unspecified] /Users/zhangkun/workspace/KotlinMall/MessageCenter/build/intermediates/bundles/default/AndroidManifest.xml:27:27-57
+meta-data#JPUSH_APPKEY
+ADDED from [KotlinMall:MessageCenter:unspecified] /Users/zhangkun/workspace/KotlinMall/MessageCenter/build/intermediates/bundles/default/AndroidManifest.xml:31:9-34:45
+MERGED from [cn.jiguang.sdk:jpush:3.0.9] /Users/zhangkun/.android/build-cache/3d02cb189638dc1cd79ab4c62cf4aa8c65934035/output/AndroidManifest.xml:122:9-124:47
+	android:value
+		ADDED from [KotlinMall:MessageCenter:unspecified] /Users/zhangkun/workspace/KotlinMall/MessageCenter/build/intermediates/bundles/default/AndroidManifest.xml:33:13-53
+		REJECTED from [cn.jiguang.sdk:jpush:3.0.9] /Users/zhangkun/.android/build-cache/3d02cb189638dc1cd79ab4c62cf4aa8c65934035/output/AndroidManifest.xml:124:13-44
+	tools:replace
+		ADDED from [KotlinMall:MessageCenter:unspecified] /Users/zhangkun/workspace/KotlinMall/MessageCenter/build/intermediates/bundles/default/AndroidManifest.xml:34:13-42
+	android:name
+		ADDED from [KotlinMall:MessageCenter:unspecified] /Users/zhangkun/workspace/KotlinMall/MessageCenter/build/intermediates/bundles/default/AndroidManifest.xml:32:13-40
+meta-data#JPUSH_CHANNEL
+ADDED from [KotlinMall:MessageCenter:unspecified] /Users/zhangkun/workspace/KotlinMall/MessageCenter/build/intermediates/bundles/default/AndroidManifest.xml:35:9-38:45
+MERGED from [cn.jiguang.sdk:jpush:3.0.9] /Users/zhangkun/.android/build-cache/3d02cb189638dc1cd79ab4c62cf4aa8c65934035/output/AndroidManifest.xml:119:9-121:48
+	android:value
+		ADDED from [KotlinMall:MessageCenter:unspecified] /Users/zhangkun/workspace/KotlinMall/MessageCenter/build/intermediates/bundles/default/AndroidManifest.xml:37:13-46
+		REJECTED from [cn.jiguang.sdk:jpush:3.0.9] /Users/zhangkun/.android/build-cache/3d02cb189638dc1cd79ab4c62cf4aa8c65934035/output/AndroidManifest.xml:121:13-45
+	tools:replace
+		ADDED from [KotlinMall:MessageCenter:unspecified] /Users/zhangkun/workspace/KotlinMall/MessageCenter/build/intermediates/bundles/default/AndroidManifest.xml:38:13-42
+	android:name
+		ADDED from [KotlinMall:MessageCenter:unspecified] /Users/zhangkun/workspace/KotlinMall/MessageCenter/build/intermediates/bundles/default/AndroidManifest.xml:36:13-41
+permission#${JPUSH_PKGNAME}.permission.JPUSH_MESSAGE
+ADDED from [cn.jiguang.sdk:jpush:3.0.9] /Users/zhangkun/.android/build-cache/3d02cb189638dc1cd79ab4c62cf4aa8c65934035/output/AndroidManifest.xml:11:5-13:47
+	android:protectionLevel
+		ADDED from [cn.jiguang.sdk:jpush:3.0.9] /Users/zhangkun/.android/build-cache/3d02cb189638dc1cd79ab4c62cf4aa8c65934035/output/AndroidManifest.xml:13:9-44
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.0.9] /Users/zhangkun/.android/build-cache/3d02cb189638dc1cd79ab4c62cf4aa8c65934035/output/AndroidManifest.xml:12:9-65
+uses-permission#${JPUSH_PKGNAME}.permission.JPUSH_MESSAGE
+ADDED from [cn.jiguang.sdk:jpush:3.0.9] /Users/zhangkun/.android/build-cache/3d02cb189638dc1cd79ab4c62cf4aa8c65934035/output/AndroidManifest.xml:16:5-81
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.0.9] /Users/zhangkun/.android/build-cache/3d02cb189638dc1cd79ab4c62cf4aa8c65934035/output/AndroidManifest.xml:16:22-78
+uses-permission#android.permission.RECEIVE_USER_PRESENT
+ADDED from [cn.jiguang.sdk:jpush:3.0.9] /Users/zhangkun/.android/build-cache/3d02cb189638dc1cd79ab4c62cf4aa8c65934035/output/AndroidManifest.xml:17:5-79
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.0.9] /Users/zhangkun/.android/build-cache/3d02cb189638dc1cd79ab4c62cf4aa8c65934035/output/AndroidManifest.xml:17:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [cn.jiguang.sdk:jpush:3.0.9] /Users/zhangkun/.android/build-cache/3d02cb189638dc1cd79ab4c62cf4aa8c65934035/output/AndroidManifest.xml:18:5-67
+MERGED from [KotlinMall:PaySDK:unspecified] /Users/zhangkun/workspace/KotlinMall/PaySDK/build/intermediates/bundles/default/AndroidManifest.xml:11:5-67
+MERGED from [KotlinMall:BaseLibrary:unspecified] /Users/zhangkun/workspace/KotlinMall/BaseLibrary/build/intermediates/bundles/default/AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.0.9] /Users/zhangkun/.android/build-cache/3d02cb189638dc1cd79ab4c62cf4aa8c65934035/output/AndroidManifest.xml:18:22-64
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [cn.jiguang.sdk:jpush:3.0.9] /Users/zhangkun/.android/build-cache/3d02cb189638dc1cd79ab4c62cf4aa8c65934035/output/AndroidManifest.xml:19:5-68
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.0.9] /Users/zhangkun/.android/build-cache/3d02cb189638dc1cd79ab4c62cf4aa8c65934035/output/AndroidManifest.xml:19:22-65
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from [cn.jiguang.sdk:jpush:3.0.9] /Users/zhangkun/.android/build-cache/3d02cb189638dc1cd79ab4c62cf4aa8c65934035/output/AndroidManifest.xml:20:5-75
+MERGED from [KotlinMall:PaySDK:unspecified] /Users/zhangkun/workspace/KotlinMall/PaySDK/build/intermediates/bundles/default/AndroidManifest.xml:14:5-75
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.0.9] /Users/zhangkun/.android/build-cache/3d02cb189638dc1cd79ab4c62cf4aa8c65934035/output/AndroidManifest.xml:20:22-72
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [cn.jiguang.sdk:jpush:3.0.9] /Users/zhangkun/.android/build-cache/3d02cb189638dc1cd79ab4c62cf4aa8c65934035/output/AndroidManifest.xml:21:5-81
+MERGED from [KotlinMall:PaySDK:unspecified] /Users/zhangkun/workspace/KotlinMall/PaySDK/build/intermediates/bundles/default/AndroidManifest.xml:15:5-81
+MERGED from [com.jph.takephoto:takephoto_library:4.0.3] /Users/zhangkun/.android/build-cache/a420996ea533ba70e179f2111f13cca4473dfbfe/output/AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.0.9] /Users/zhangkun/.android/build-cache/3d02cb189638dc1cd79ab4c62cf4aa8c65934035/output/AndroidManifest.xml:21:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [cn.jiguang.sdk:jpush:3.0.9] /Users/zhangkun/.android/build-cache/3d02cb189638dc1cd79ab4c62cf4aa8c65934035/output/AndroidManifest.xml:22:5-80
+MERGED from [com.darsh.multipleimageselect:multipleimageselect:1.0.4] /Users/zhangkun/.android/build-cache/d951b4b6e8e0285e45869a2b592d313473bc474f/output/AndroidManifest.xml:11:5-80
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.0.9] /Users/zhangkun/.android/build-cache/3d02cb189638dc1cd79ab4c62cf4aa8c65934035/output/AndroidManifest.xml:22:22-77
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from [cn.jiguang.sdk:jpush:3.0.9] /Users/zhangkun/.android/build-cache/3d02cb189638dc1cd79ab4c62cf4aa8c65934035/output/AndroidManifest.xml:23:5-73
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.0.9] /Users/zhangkun/.android/build-cache/3d02cb189638dc1cd79ab4c62cf4aa8c65934035/output/AndroidManifest.xml:23:22-70
+uses-permission#android.permission.VIBRATE
+ADDED from [cn.jiguang.sdk:jpush:3.0.9] /Users/zhangkun/.android/build-cache/3d02cb189638dc1cd79ab4c62cf4aa8c65934035/output/AndroidManifest.xml:24:5-66
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.0.9] /Users/zhangkun/.android/build-cache/3d02cb189638dc1cd79ab4c62cf4aa8c65934035/output/AndroidManifest.xml:24:22-63
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from [cn.jiguang.sdk:jpush:3.0.9] /Users/zhangkun/.android/build-cache/3d02cb189638dc1cd79ab4c62cf4aa8c65934035/output/AndroidManifest.xml:25:5-84
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.0.9] /Users/zhangkun/.android/build-cache/3d02cb189638dc1cd79ab4c62cf4aa8c65934035/output/AndroidManifest.xml:25:22-81
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [cn.jiguang.sdk:jpush:3.0.9] /Users/zhangkun/.android/build-cache/3d02cb189638dc1cd79ab4c62cf4aa8c65934035/output/AndroidManifest.xml:27:5-76
+MERGED from [KotlinMall:PaySDK:unspecified] /Users/zhangkun/workspace/KotlinMall/PaySDK/build/intermediates/bundles/default/AndroidManifest.xml:13:5-76
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.0.9] /Users/zhangkun/.android/build-cache/3d02cb189638dc1cd79ab4c62cf4aa8c65934035/output/AndroidManifest.xml:27:22-73
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from [cn.jiguang.sdk:jpush:3.0.9] /Users/zhangkun/.android/build-cache/3d02cb189638dc1cd79ab4c62cf4aa8c65934035/output/AndroidManifest.xml:30:5-78
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.0.9] /Users/zhangkun/.android/build-cache/3d02cb189638dc1cd79ab4c62cf4aa8c65934035/output/AndroidManifest.xml:30:22-75
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from [cn.jiguang.sdk:jpush:3.0.9] /Users/zhangkun/.android/build-cache/3d02cb189638dc1cd79ab4c62cf4aa8c65934035/output/AndroidManifest.xml:31:5-81
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.0.9] /Users/zhangkun/.android/build-cache/3d02cb189638dc1cd79ab4c62cf4aa8c65934035/output/AndroidManifest.xml:31:22-78
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from [cn.jiguang.sdk:jpush:3.0.9] /Users/zhangkun/.android/build-cache/3d02cb189638dc1cd79ab4c62cf4aa8c65934035/output/AndroidManifest.xml:32:5-76
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.0.9] /Users/zhangkun/.android/build-cache/3d02cb189638dc1cd79ab4c62cf4aa8c65934035/output/AndroidManifest.xml:32:22-73
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from [cn.jiguang.sdk:jpush:3.0.9] /Users/zhangkun/.android/build-cache/3d02cb189638dc1cd79ab4c62cf4aa8c65934035/output/AndroidManifest.xml:33:5-79
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.0.9] /Users/zhangkun/.android/build-cache/3d02cb189638dc1cd79ab4c62cf4aa8c65934035/output/AndroidManifest.xml:33:22-76
+uses-permission#android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+ADDED from [cn.jiguang.sdk:jpush:3.0.9] /Users/zhangkun/.android/build-cache/3d02cb189638dc1cd79ab4c62cf4aa8c65934035/output/AndroidManifest.xml:34:5-89
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.0.9] /Users/zhangkun/.android/build-cache/3d02cb189638dc1cd79ab4c62cf4aa8c65934035/output/AndroidManifest.xml:34:22-86
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from [cn.jiguang.sdk:jpush:3.0.9] /Users/zhangkun/.android/build-cache/3d02cb189638dc1cd79ab4c62cf4aa8c65934035/output/AndroidManifest.xml:35:5-79
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.0.9] /Users/zhangkun/.android/build-cache/3d02cb189638dc1cd79ab4c62cf4aa8c65934035/output/AndroidManifest.xml:35:22-76
+activity#cn.jpush.android.ui.PopWinActivity
+ADDED from [cn.jiguang.sdk:jpush:3.0.9] /Users/zhangkun/.android/build-cache/3d02cb189638dc1cd79ab4c62cf4aa8c65934035/output/AndroidManifest.xml:40:9-43:52
+	android:exported
+		ADDED from [cn.jiguang.sdk:jpush:3.0.9] /Users/zhangkun/.android/build-cache/3d02cb189638dc1cd79ab4c62cf4aa8c65934035/output/AndroidManifest.xml:42:13-37
+	android:theme
+		ADDED from [cn.jiguang.sdk:jpush:3.0.9] /Users/zhangkun/.android/build-cache/3d02cb189638dc1cd79ab4c62cf4aa8c65934035/output/AndroidManifest.xml:43:13-49
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.0.9] /Users/zhangkun/.android/build-cache/3d02cb189638dc1cd79ab4c62cf4aa8c65934035/output/AndroidManifest.xml:41:13-62
+activity#cn.jpush.android.ui.PushActivity
+ADDED from [cn.jiguang.sdk:jpush:3.0.9] /Users/zhangkun/.android/build-cache/3d02cb189638dc1cd79ab4c62cf4aa8c65934035/output/AndroidManifest.xml:46:9-57:20
+	android:exported
+		ADDED from [cn.jiguang.sdk:jpush:3.0.9] /Users/zhangkun/.android/build-cache/3d02cb189638dc1cd79ab4c62cf4aa8c65934035/output/AndroidManifest.xml:49:13-37
+	android:configChanges
+		ADDED from [cn.jiguang.sdk:jpush:3.0.9] /Users/zhangkun/.android/build-cache/3d02cb189638dc1cd79ab4c62cf4aa8c65934035/output/AndroidManifest.xml:48:13-63
+	android:theme
+		ADDED from [cn.jiguang.sdk:jpush:3.0.9] /Users/zhangkun/.android/build-cache/3d02cb189638dc1cd79ab4c62cf4aa8c65934035/output/AndroidManifest.xml:50:13-60
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.0.9] /Users/zhangkun/.android/build-cache/3d02cb189638dc1cd79ab4c62cf4aa8c65934035/output/AndroidManifest.xml:47:13-60
+intent-filter#${JPUSH_PKGNAME}+android.intent.category.DEFAULT+cn.jpush.android.ui.PushActivity
+ADDED from [cn.jiguang.sdk:jpush:3.0.9] /Users/zhangkun/.android/build-cache/3d02cb189638dc1cd79ab4c62cf4aa8c65934035/output/AndroidManifest.xml:51:13-56:29
+action#cn.jpush.android.ui.PushActivity
+ADDED from [cn.jiguang.sdk:jpush:3.0.9] /Users/zhangkun/.android/build-cache/3d02cb189638dc1cd79ab4c62cf4aa8c65934035/output/AndroidManifest.xml:52:17-75
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.0.9] /Users/zhangkun/.android/build-cache/3d02cb189638dc1cd79ab4c62cf4aa8c65934035/output/AndroidManifest.xml:52:25-72
+category#android.intent.category.DEFAULT
+ADDED from [cn.jiguang.sdk:jpush:3.0.9] /Users/zhangkun/.android/build-cache/3d02cb189638dc1cd79ab4c62cf4aa8c65934035/output/AndroidManifest.xml:54:17-76
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.0.9] /Users/zhangkun/.android/build-cache/3d02cb189638dc1cd79ab4c62cf4aa8c65934035/output/AndroidManifest.xml:54:27-73
+category#${JPUSH_PKGNAME}
+ADDED from [cn.jiguang.sdk:jpush:3.0.9] /Users/zhangkun/.android/build-cache/3d02cb189638dc1cd79ab4c62cf4aa8c65934035/output/AndroidManifest.xml:55:17-61
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.0.9] /Users/zhangkun/.android/build-cache/3d02cb189638dc1cd79ab4c62cf4aa8c65934035/output/AndroidManifest.xml:55:27-58
+service#cn.jpush.android.service.PushService
+ADDED from [cn.jiguang.sdk:jpush:3.0.9] /Users/zhangkun/.android/build-cache/3d02cb189638dc1cd79ab4c62cf4aa8c65934035/output/AndroidManifest.xml:60:9-71:19
+	android:enabled
+		ADDED from [cn.jiguang.sdk:jpush:3.0.9] /Users/zhangkun/.android/build-cache/3d02cb189638dc1cd79ab4c62cf4aa8c65934035/output/AndroidManifest.xml:62:13-35
+	android:process
+		ADDED from [cn.jiguang.sdk:jpush:3.0.9] /Users/zhangkun/.android/build-cache/3d02cb189638dc1cd79ab4c62cf4aa8c65934035/output/AndroidManifest.xml:64:13-40
+	android:exported
+		ADDED from [cn.jiguang.sdk:jpush:3.0.9] /Users/zhangkun/.android/build-cache/3d02cb189638dc1cd79ab4c62cf4aa8c65934035/output/AndroidManifest.xml:63:13-37
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.0.9] /Users/zhangkun/.android/build-cache/3d02cb189638dc1cd79ab4c62cf4aa8c65934035/output/AndroidManifest.xml:61:13-64
+intent-filter#cn.jpush.android.intent.PUSH_TIME+cn.jpush.android.intent.PushService+cn.jpush.android.intent.REGISTER+cn.jpush.android.intent.REPORT
+ADDED from [cn.jiguang.sdk:jpush:3.0.9] /Users/zhangkun/.android/build-cache/3d02cb189638dc1cd79ab4c62cf4aa8c65934035/output/AndroidManifest.xml:65:13-70:29
+action#cn.jpush.android.intent.REGISTER
+ADDED from [cn.jiguang.sdk:jpush:3.0.9] /Users/zhangkun/.android/build-cache/3d02cb189638dc1cd79ab4c62cf4aa8c65934035/output/AndroidManifest.xml:66:17-75
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.0.9] /Users/zhangkun/.android/build-cache/3d02cb189638dc1cd79ab4c62cf4aa8c65934035/output/AndroidManifest.xml:66:25-72
+action#cn.jpush.android.intent.REPORT
+ADDED from [cn.jiguang.sdk:jpush:3.0.9] /Users/zhangkun/.android/build-cache/3d02cb189638dc1cd79ab4c62cf4aa8c65934035/output/AndroidManifest.xml:67:17-73
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.0.9] /Users/zhangkun/.android/build-cache/3d02cb189638dc1cd79ab4c62cf4aa8c65934035/output/AndroidManifest.xml:67:25-70
+action#cn.jpush.android.intent.PushService
+ADDED from [cn.jiguang.sdk:jpush:3.0.9] /Users/zhangkun/.android/build-cache/3d02cb189638dc1cd79ab4c62cf4aa8c65934035/output/AndroidManifest.xml:68:17-78
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.0.9] /Users/zhangkun/.android/build-cache/3d02cb189638dc1cd79ab4c62cf4aa8c65934035/output/AndroidManifest.xml:68:25-75
+action#cn.jpush.android.intent.PUSH_TIME
+ADDED from [cn.jiguang.sdk:jpush:3.0.9] /Users/zhangkun/.android/build-cache/3d02cb189638dc1cd79ab4c62cf4aa8c65934035/output/AndroidManifest.xml:69:17-76
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.0.9] /Users/zhangkun/.android/build-cache/3d02cb189638dc1cd79ab4c62cf4aa8c65934035/output/AndroidManifest.xml:69:25-73
+service#cn.jpush.android.service.DaemonService
+ADDED from [cn.jiguang.sdk:jpush:3.0.9] /Users/zhangkun/.android/build-cache/3d02cb189638dc1cd79ab4c62cf4aa8c65934035/output/AndroidManifest.xml:75:9-84:19
+	android:enabled
+		ADDED from [cn.jiguang.sdk:jpush:3.0.9] /Users/zhangkun/.android/build-cache/3d02cb189638dc1cd79ab4c62cf4aa8c65934035/output/AndroidManifest.xml:77:13-35
+	android:exported
+		ADDED from [cn.jiguang.sdk:jpush:3.0.9] /Users/zhangkun/.android/build-cache/3d02cb189638dc1cd79ab4c62cf4aa8c65934035/output/AndroidManifest.xml:78:13-36
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.0.9] /Users/zhangkun/.android/build-cache/3d02cb189638dc1cd79ab4c62cf4aa8c65934035/output/AndroidManifest.xml:76:13-66
+intent-filter#${JPUSH_PKGNAME}+cn.jpush.android.intent.DaemonService
+ADDED from [cn.jiguang.sdk:jpush:3.0.9] /Users/zhangkun/.android/build-cache/3d02cb189638dc1cd79ab4c62cf4aa8c65934035/output/AndroidManifest.xml:79:13-83:29
+action#cn.jpush.android.intent.DaemonService
+ADDED from [cn.jiguang.sdk:jpush:3.0.9] /Users/zhangkun/.android/build-cache/3d02cb189638dc1cd79ab4c62cf4aa8c65934035/output/AndroidManifest.xml:80:17-80
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.0.9] /Users/zhangkun/.android/build-cache/3d02cb189638dc1cd79ab4c62cf4aa8c65934035/output/AndroidManifest.xml:80:25-77
+receiver#cn.jpush.android.service.PushReceiver
+ADDED from [cn.jiguang.sdk:jpush:3.0.9] /Users/zhangkun/.android/build-cache/3d02cb189638dc1cd79ab4c62cf4aa8c65934035/output/AndroidManifest.xml:87:9-106:20
+	android:enabled
+		ADDED from [cn.jiguang.sdk:jpush:3.0.9] /Users/zhangkun/.android/build-cache/3d02cb189638dc1cd79ab4c62cf4aa8c65934035/output/AndroidManifest.xml:89:13-35
+	android:exported
+		ADDED from [cn.jiguang.sdk:jpush:3.0.9] /Users/zhangkun/.android/build-cache/3d02cb189638dc1cd79ab4c62cf4aa8c65934035/output/AndroidManifest.xml:90:13-37
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.0.9] /Users/zhangkun/.android/build-cache/3d02cb189638dc1cd79ab4c62cf4aa8c65934035/output/AndroidManifest.xml:88:13-65
+intent-filter#${JPUSH_PKGNAME}+cn.jpush.android.intent.NOTIFICATION_RECEIVED_PROXY
+ADDED from [cn.jiguang.sdk:jpush:3.0.9] /Users/zhangkun/.android/build-cache/3d02cb189638dc1cd79ab4c62cf4aa8c65934035/output/AndroidManifest.xml:91:13-94:29
+	android:priority
+		ADDED from [cn.jiguang.sdk:jpush:3.0.9] /Users/zhangkun/.android/build-cache/3d02cb189638dc1cd79ab4c62cf4aa8c65934035/output/AndroidManifest.xml:91:28-51
+action#cn.jpush.android.intent.NOTIFICATION_RECEIVED_PROXY
+ADDED from [cn.jiguang.sdk:jpush:3.0.9] /Users/zhangkun/.android/build-cache/3d02cb189638dc1cd79ab4c62cf4aa8c65934035/output/AndroidManifest.xml:92:17-94
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.0.9] /Users/zhangkun/.android/build-cache/3d02cb189638dc1cd79ab4c62cf4aa8c65934035/output/AndroidManifest.xml:92:25-91
+intent-filter#android.intent.action.USER_PRESENT+android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [cn.jiguang.sdk:jpush:3.0.9] /Users/zhangkun/.android/build-cache/3d02cb189638dc1cd79ab4c62cf4aa8c65934035/output/AndroidManifest.xml:95:13-98:29
+action#android.intent.action.USER_PRESENT
+ADDED from [cn.jiguang.sdk:jpush:3.0.9] /Users/zhangkun/.android/build-cache/3d02cb189638dc1cd79ab4c62cf4aa8c65934035/output/AndroidManifest.xml:96:17-77
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.0.9] /Users/zhangkun/.android/build-cache/3d02cb189638dc1cd79ab4c62cf4aa8c65934035/output/AndroidManifest.xml:96:25-74
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [cn.jiguang.sdk:jpush:3.0.9] /Users/zhangkun/.android/build-cache/3d02cb189638dc1cd79ab4c62cf4aa8c65934035/output/AndroidManifest.xml:97:17-79
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.0.9] /Users/zhangkun/.android/build-cache/3d02cb189638dc1cd79ab4c62cf4aa8c65934035/output/AndroidManifest.xml:97:25-76
+intent-filter#android.intent.action.PACKAGE_ADDED+android.intent.action.PACKAGE_REMOVED
+ADDED from [cn.jiguang.sdk:jpush:3.0.9] /Users/zhangkun/.android/build-cache/3d02cb189638dc1cd79ab4c62cf4aa8c65934035/output/AndroidManifest.xml:100:13-105:29
+action#android.intent.action.PACKAGE_ADDED
+ADDED from [cn.jiguang.sdk:jpush:3.0.9] /Users/zhangkun/.android/build-cache/3d02cb189638dc1cd79ab4c62cf4aa8c65934035/output/AndroidManifest.xml:101:17-78
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.0.9] /Users/zhangkun/.android/build-cache/3d02cb189638dc1cd79ab4c62cf4aa8c65934035/output/AndroidManifest.xml:101:25-75
+action#android.intent.action.PACKAGE_REMOVED
+ADDED from [cn.jiguang.sdk:jpush:3.0.9] /Users/zhangkun/.android/build-cache/3d02cb189638dc1cd79ab4c62cf4aa8c65934035/output/AndroidManifest.xml:102:17-80
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.0.9] /Users/zhangkun/.android/build-cache/3d02cb189638dc1cd79ab4c62cf4aa8c65934035/output/AndroidManifest.xml:102:25-77
+data
+ADDED from [cn.jiguang.sdk:jpush:3.0.9] /Users/zhangkun/.android/build-cache/3d02cb189638dc1cd79ab4c62cf4aa8c65934035/output/AndroidManifest.xml:104:17-50
+	android:scheme
+		ADDED from [cn.jiguang.sdk:jpush:3.0.9] /Users/zhangkun/.android/build-cache/3d02cb189638dc1cd79ab4c62cf4aa8c65934035/output/AndroidManifest.xml:104:23-47
+receiver#cn.jpush.android.service.AlarmReceiver
+ADDED from [cn.jiguang.sdk:jpush:3.0.9] /Users/zhangkun/.android/build-cache/3d02cb189638dc1cd79ab4c62cf4aa8c65934035/output/AndroidManifest.xml:109:9-111:40
+	android:exported
+		ADDED from [cn.jiguang.sdk:jpush:3.0.9] /Users/zhangkun/.android/build-cache/3d02cb189638dc1cd79ab4c62cf4aa8c65934035/output/AndroidManifest.xml:111:13-37
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.0.9] /Users/zhangkun/.android/build-cache/3d02cb189638dc1cd79ab4c62cf4aa8c65934035/output/AndroidManifest.xml:110:13-66
+provider#cn.jpush.android.service.DataProvider
+ADDED from [cn.jiguang.sdk:jpush:3.0.9] /Users/zhangkun/.android/build-cache/3d02cb189638dc1cd79ab4c62cf4aa8c65934035/output/AndroidManifest.xml:113:9-116:39
+	android:authorities
+		ADDED from [cn.jiguang.sdk:jpush:3.0.9] /Users/zhangkun/.android/build-cache/3d02cb189638dc1cd79ab4c62cf4aa8c65934035/output/AndroidManifest.xml:115:13-64
+	android:exported
+		ADDED from [cn.jiguang.sdk:jpush:3.0.9] /Users/zhangkun/.android/build-cache/3d02cb189638dc1cd79ab4c62cf4aa8c65934035/output/AndroidManifest.xml:116:13-36
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.0.9] /Users/zhangkun/.android/build-cache/3d02cb189638dc1cd79ab4c62cf4aa8c65934035/output/AndroidManifest.xml:114:13-65
+activity#com.kotlin.goods.ui.activity.GoodsActivity
+ADDED from [KotlinMall:GoodsCenter:unspecified] /Users/zhangkun/workspace/KotlinMall/GoodsCenter/build/intermediates/bundles/default/AndroidManifest.xml:15:9-79
+	android:name
+		ADDED from [KotlinMall:GoodsCenter:unspecified] /Users/zhangkun/workspace/KotlinMall/GoodsCenter/build/intermediates/bundles/default/AndroidManifest.xml:15:19-76
+activity#com.kotlin.goods.ui.activity.SearchGoodsActivity
+ADDED from [KotlinMall:GoodsCenter:unspecified] /Users/zhangkun/workspace/KotlinMall/GoodsCenter/build/intermediates/bundles/default/AndroidManifest.xml:16:9-85
+	android:name
+		ADDED from [KotlinMall:GoodsCenter:unspecified] /Users/zhangkun/workspace/KotlinMall/GoodsCenter/build/intermediates/bundles/default/AndroidManifest.xml:16:19-82
+activity#com.kotlin.goods.ui.activity.GoodsDetailActivity
+ADDED from [KotlinMall:GoodsCenter:unspecified] /Users/zhangkun/workspace/KotlinMall/GoodsCenter/build/intermediates/bundles/default/AndroidManifest.xml:17:9-19:53
+	android:theme
+		ADDED from [KotlinMall:GoodsCenter:unspecified] /Users/zhangkun/workspace/KotlinMall/GoodsCenter/build/intermediates/bundles/default/AndroidManifest.xml:19:13-50
+	android:name
+		ADDED from [KotlinMall:GoodsCenter:unspecified] /Users/zhangkun/workspace/KotlinMall/GoodsCenter/build/intermediates/bundles/default/AndroidManifest.xml:18:13-76
+activity#com.kotlin.goods.ui.activity.CartActivity
+ADDED from [KotlinMall:GoodsCenter:unspecified] /Users/zhangkun/workspace/KotlinMall/GoodsCenter/build/intermediates/bundles/default/AndroidManifest.xml:20:9-78
+	android:name
+		ADDED from [KotlinMall:GoodsCenter:unspecified] /Users/zhangkun/workspace/KotlinMall/GoodsCenter/build/intermediates/bundles/default/AndroidManifest.xml:20:19-75
+activity#com.kotlin.order.ui.activity.OrderConfirmActivity
+ADDED from [KotlinMall:OrderCenter:unspecified] /Users/zhangkun/workspace/KotlinMall/OrderCenter/build/intermediates/bundles/default/AndroidManifest.xml:15:9-86
+	android:name
+		ADDED from [KotlinMall:OrderCenter:unspecified] /Users/zhangkun/workspace/KotlinMall/OrderCenter/build/intermediates/bundles/default/AndroidManifest.xml:15:19-83
+activity#com.kotlin.order.ui.activity.ShipAddressActivity
+ADDED from [KotlinMall:OrderCenter:unspecified] /Users/zhangkun/workspace/KotlinMall/OrderCenter/build/intermediates/bundles/default/AndroidManifest.xml:16:9-85
+	android:name
+		ADDED from [KotlinMall:OrderCenter:unspecified] /Users/zhangkun/workspace/KotlinMall/OrderCenter/build/intermediates/bundles/default/AndroidManifest.xml:16:19-82
+activity#com.kotlin.order.ui.activity.ShipAddressEditActivity
+ADDED from [KotlinMall:OrderCenter:unspecified] /Users/zhangkun/workspace/KotlinMall/OrderCenter/build/intermediates/bundles/default/AndroidManifest.xml:17:9-89
+	android:name
+		ADDED from [KotlinMall:OrderCenter:unspecified] /Users/zhangkun/workspace/KotlinMall/OrderCenter/build/intermediates/bundles/default/AndroidManifest.xml:17:19-86
+activity#com.kotlin.order.ui.activity.OrderActivity
+ADDED from [KotlinMall:OrderCenter:unspecified] /Users/zhangkun/workspace/KotlinMall/OrderCenter/build/intermediates/bundles/default/AndroidManifest.xml:18:9-79
+	android:name
+		ADDED from [KotlinMall:OrderCenter:unspecified] /Users/zhangkun/workspace/KotlinMall/OrderCenter/build/intermediates/bundles/default/AndroidManifest.xml:18:19-76
+activity#com.kotlin.order.ui.activity.OrderDetailActivity
+ADDED from [KotlinMall:OrderCenter:unspecified] /Users/zhangkun/workspace/KotlinMall/OrderCenter/build/intermediates/bundles/default/AndroidManifest.xml:19:9-85
+	android:name
+		ADDED from [KotlinMall:OrderCenter:unspecified] /Users/zhangkun/workspace/KotlinMall/OrderCenter/build/intermediates/bundles/default/AndroidManifest.xml:19:19-82
+activity#com.alipay.sdk.app.H5PayActivity
+ADDED from [KotlinMall:PaySDK:unspecified] /Users/zhangkun/workspace/KotlinMall/PaySDK/build/intermediates/bundles/default/AndroidManifest.xml:21:9-27:20
+	android:screenOrientation
+		ADDED from [KotlinMall:PaySDK:unspecified] /Users/zhangkun/workspace/KotlinMall/PaySDK/build/intermediates/bundles/default/AndroidManifest.xml:25:13-47
+	android:exported
+		ADDED from [KotlinMall:PaySDK:unspecified] /Users/zhangkun/workspace/KotlinMall/PaySDK/build/intermediates/bundles/default/AndroidManifest.xml:24:13-37
+	android:windowSoftInputMode
+		ADDED from [KotlinMall:PaySDK:unspecified] /Users/zhangkun/workspace/KotlinMall/PaySDK/build/intermediates/bundles/default/AndroidManifest.xml:26:13-67
+	android:configChanges
+		ADDED from [KotlinMall:PaySDK:unspecified] /Users/zhangkun/workspace/KotlinMall/PaySDK/build/intermediates/bundles/default/AndroidManifest.xml:23:13-85
+	android:name
+		ADDED from [KotlinMall:PaySDK:unspecified] /Users/zhangkun/workspace/KotlinMall/PaySDK/build/intermediates/bundles/default/AndroidManifest.xml:22:13-60
+activity#com.alipay.sdk.app.H5AuthActivity
+ADDED from [KotlinMall:PaySDK:unspecified] /Users/zhangkun/workspace/KotlinMall/PaySDK/build/intermediates/bundles/default/AndroidManifest.xml:28:9-34:20
+	android:screenOrientation
+		ADDED from [KotlinMall:PaySDK:unspecified] /Users/zhangkun/workspace/KotlinMall/PaySDK/build/intermediates/bundles/default/AndroidManifest.xml:32:13-47
+	android:exported
+		ADDED from [KotlinMall:PaySDK:unspecified] /Users/zhangkun/workspace/KotlinMall/PaySDK/build/intermediates/bundles/default/AndroidManifest.xml:31:13-37
+	android:windowSoftInputMode
+		ADDED from [KotlinMall:PaySDK:unspecified] /Users/zhangkun/workspace/KotlinMall/PaySDK/build/intermediates/bundles/default/AndroidManifest.xml:33:13-67
+	android:configChanges
+		ADDED from [KotlinMall:PaySDK:unspecified] /Users/zhangkun/workspace/KotlinMall/PaySDK/build/intermediates/bundles/default/AndroidManifest.xml:30:13-74
+	android:name
+		ADDED from [KotlinMall:PaySDK:unspecified] /Users/zhangkun/workspace/KotlinMall/PaySDK/build/intermediates/bundles/default/AndroidManifest.xml:29:13-61
+activity#com.kotlin.pay.ui.activity.CashRegisterActivity
+ADDED from [KotlinMall:PaySDK:unspecified] /Users/zhangkun/workspace/KotlinMall/PaySDK/build/intermediates/bundles/default/AndroidManifest.xml:35:9-84
+	android:name
+		ADDED from [KotlinMall:PaySDK:unspecified] /Users/zhangkun/workspace/KotlinMall/PaySDK/build/intermediates/bundles/default/AndroidManifest.xml:35:19-81
+meta-data#android.support.VERSION
+ADDED from [com.android.support:cardview-v7:25.3.1] /Users/zhangkun/.android/build-cache/0b969aeac0c9d624d16d503057c3f4f2ba7cc050/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:design:25.3.1] /Users/zhangkun/.android/build-cache/8192a340d4d1fd7b16df2c2d714e82a330066c40/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/zhangkun/.android/build-cache/6ff689b0e9a2941b0a1afc491f5f8a4309c2b008/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] /Users/zhangkun/.android/build-cache/0c05ddcfda7aa826466078138adfa0741a636c0e/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/zhangkun/.android/build-cache/44c4e26e72068b4d782c6d74abbbf3b583688c90/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/zhangkun/.android/build-cache/900f4b27e50bbe6173cf2570fe920188d465b245/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/zhangkun/.android/build-cache/810056b25a5cbf8eb7e8a2802347282cb866a29e/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] /Users/zhangkun/.android/build-cache/9347b03b6768bbba347ba8c7e982bd7eb70c7537/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/zhangkun/.android/build-cache/f11d40e6c1ed312d76b275ba289199b41605416f/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/zhangkun/.android/build-cache/59860ad365814ded4365b6084c2480a8eb60a442/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/zhangkun/.android/build-cache/66c14e0e9268e7150dc3270be91cf2cdb56b2bc9/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/zhangkun/.android/build-cache/c47ebaf81bfeaa4fb47800f917d169532c3ae061/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/zhangkun/.android/build-cache/39f56069ef3a7140d7cc5af74108d7b7aa447b55/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:cardview-v7:25.3.1] /Users/zhangkun/.android/build-cache/0b969aeac0c9d624d16d503057c3f4f2ba7cc050/output/AndroidManifest.xml:24:9-31
+	android:name
+		ADDED from [com.android.support:cardview-v7:25.3.1] /Users/zhangkun/.android/build-cache/0b969aeac0c9d624d16d503057c3f4f2ba7cc050/output/AndroidManifest.xml:23:9-47
+uses-permission#android.permission.CAMERA
+ADDED from [com.jph.takephoto:takephoto_library:4.0.3] /Users/zhangkun/.android/build-cache/a420996ea533ba70e179f2111f13cca4473dfbfe/output/AndroidManifest.xml:12:5-65
+	android:name
+		ADDED from [com.jph.takephoto:takephoto_library:4.0.3] /Users/zhangkun/.android/build-cache/a420996ea533ba70e179f2111f13cca4473dfbfe/output/AndroidManifest.xml:12:22-62
+activity#com.soundcloud.android.crop.CropImageActivity
+ADDED from [com.jph.takephoto:takephoto_library:4.0.3] /Users/zhangkun/.android/build-cache/a420996ea533ba70e179f2111f13cca4473dfbfe/output/AndroidManifest.xml:15:9-82
+	android:name
+		ADDED from [com.jph.takephoto:takephoto_library:4.0.3] /Users/zhangkun/.android/build-cache/a420996ea533ba70e179f2111f13cca4473dfbfe/output/AndroidManifest.xml:15:19-79
+provider#android.support.v4.content.FileProvider
+ADDED from [com.jph.takephoto:takephoto_library:4.0.3] /Users/zhangkun/.android/build-cache/a420996ea533ba70e179f2111f13cca4473dfbfe/output/AndroidManifest.xml:17:9-25:20
+	android:authorities
+		ADDED from [com.jph.takephoto:takephoto_library:4.0.3] /Users/zhangkun/.android/build-cache/a420996ea533ba70e179f2111f13cca4473dfbfe/output/AndroidManifest.xml:19:13-64
+	android:grantUriPermissions
+		ADDED from [com.jph.takephoto:takephoto_library:4.0.3] /Users/zhangkun/.android/build-cache/a420996ea533ba70e179f2111f13cca4473dfbfe/output/AndroidManifest.xml:21:13-47
+	android:exported
+		ADDED from [com.jph.takephoto:takephoto_library:4.0.3] /Users/zhangkun/.android/build-cache/a420996ea533ba70e179f2111f13cca4473dfbfe/output/AndroidManifest.xml:20:13-37
+	android:name
+		ADDED from [com.jph.takephoto:takephoto_library:4.0.3] /Users/zhangkun/.android/build-cache/a420996ea533ba70e179f2111f13cca4473dfbfe/output/AndroidManifest.xml:18:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [com.jph.takephoto:takephoto_library:4.0.3] /Users/zhangkun/.android/build-cache/a420996ea533ba70e179f2111f13cca4473dfbfe/output/AndroidManifest.xml:22:13-24:54
+	android:resource
+		ADDED from [com.jph.takephoto:takephoto_library:4.0.3] /Users/zhangkun/.android/build-cache/a420996ea533ba70e179f2111f13cca4473dfbfe/output/AndroidManifest.xml:24:17-51
+	android:name
+		ADDED from [com.jph.takephoto:takephoto_library:4.0.3] /Users/zhangkun/.android/build-cache/a420996ea533ba70e179f2111f13cca4473dfbfe/output/AndroidManifest.xml:23:17-67
+activity#com.darsh.multipleimageselect.activities.AlbumSelectActivity
+ADDED from [com.darsh.multipleimageselect:multipleimageselect:1.0.4] /Users/zhangkun/.android/build-cache/d951b4b6e8e0285e45869a2b592d313473bc474f/output/AndroidManifest.xml:16:9-24:20
+	android:label
+		ADDED from [com.darsh.multipleimageselect:multipleimageselect:1.0.4] /Users/zhangkun/.android/build-cache/d951b4b6e8e0285e45869a2b592d313473bc474f/output/AndroidManifest.xml:19:13-45
+	android:configChanges
+		ADDED from [com.darsh.multipleimageselect:multipleimageselect:1.0.4] /Users/zhangkun/.android/build-cache/d951b4b6e8e0285e45869a2b592d313473bc474f/output/AndroidManifest.xml:18:13-59
+	android:theme
+		ADDED from [com.darsh.multipleimageselect:multipleimageselect:1.0.4] /Users/zhangkun/.android/build-cache/d951b4b6e8e0285e45869a2b592d313473bc474f/output/AndroidManifest.xml:20:13-60
+	android:name
+		ADDED from [com.darsh.multipleimageselect:multipleimageselect:1.0.4] /Users/zhangkun/.android/build-cache/d951b4b6e8e0285e45869a2b592d313473bc474f/output/AndroidManifest.xml:17:13-88
+intent-filter#android.intent.category.DEFAULT
+ADDED from [com.darsh.multipleimageselect:multipleimageselect:1.0.4] /Users/zhangkun/.android/build-cache/d951b4b6e8e0285e45869a2b592d313473bc474f/output/AndroidManifest.xml:21:13-23:29
+activity#com.darsh.multipleimageselect.activities.ImageSelectActivity
+ADDED from [com.darsh.multipleimageselect:multipleimageselect:1.0.4] /Users/zhangkun/.android/build-cache/d951b4b6e8e0285e45869a2b592d313473bc474f/output/AndroidManifest.xml:25:9-33:20
+	android:label
+		ADDED from [com.darsh.multipleimageselect:multipleimageselect:1.0.4] /Users/zhangkun/.android/build-cache/d951b4b6e8e0285e45869a2b592d313473bc474f/output/AndroidManifest.xml:28:13-45
+	android:configChanges
+		ADDED from [com.darsh.multipleimageselect:multipleimageselect:1.0.4] /Users/zhangkun/.android/build-cache/d951b4b6e8e0285e45869a2b592d313473bc474f/output/AndroidManifest.xml:27:13-59
+	android:theme
+		ADDED from [com.darsh.multipleimageselect:multipleimageselect:1.0.4] /Users/zhangkun/.android/build-cache/d951b4b6e8e0285e45869a2b592d313473bc474f/output/AndroidManifest.xml:29:13-60
+	android:name
+		ADDED from [com.darsh.multipleimageselect:multipleimageselect:1.0.4] /Users/zhangkun/.android/build-cache/d951b4b6e8e0285e45869a2b592d313473bc474f/output/AndroidManifest.xml:26:13-88
